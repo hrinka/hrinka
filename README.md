@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=160&section=header&text=CosmicΘ&fontSize=56&fontColor=6EE7B7&animation=twinkling&fontAlignY=40&desc=Frontend%20Developer%20%26%20Creative%20Director&descAlignY=62&descSize=17&descColor=A78BFA" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=160&section=header&text=Cosmic%CE%98&fontSize=56&fontColor=6EE7B7&animation=twinkling&fontAlignY=40&desc=Frontend%20Developer%20%26%20Creative%20Director&descAlignY=62&descSize=17&descColor=A78BFA" />
 </div>
 
 <br />
@@ -47,9 +47,7 @@ $ echo $STATUS
 ## 📊 &nbsp;Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hrinka&show_icons=true&theme=dark&hide_border=true&title_color=6EE7B7&icon_color=A78BFA&text_color=f0f0ff&bg_color=0d1117" />
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrinka&layout=compact&theme=dark&hide_border=true&title_color=6EE7B7&text_color=f0f0ff&bg_color=0d1117" />
+  <img src="https://streak-stats.demolab.com/?user=hrinka&theme=dark&hide_border=true&background=0d1117&ring=6EE7B7&fire=A78BFA&currStreakLabel=6EE7B7&sideLabels=f0f0ff&dates=8888aa&stroke=0d1117" />
 </div>
 
 <br />
